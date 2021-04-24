@@ -10,3 +10,6 @@ Ideas based off of Vector Generalized Linear Models. See https://en.wikipedia.or
 
 More information can be found at:
 https://www.explain.group/unifying-models-with-interpretable-parameters
+
+
+Please address any questions to ask@explain.group
